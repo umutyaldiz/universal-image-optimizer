@@ -174,3 +174,10 @@ This project was developed by Kenan Gündoğan. Contributions and feedback are w
 ## Contribution
 
 Contributions are welcome! If you have ideas or find bugs, feel free to open an issue or create a pull request on the GitHub repository.
+
+---
+
+## Links
+
+- GitHub Repository: [universal-image-optimizer on GitHub](https://github.com/kenangundogan/universal-image-optimizer)
+- npm Package: [universal-image-optimizer on npm](https://www.npmjs.com/package/universal-image-optimizer)
