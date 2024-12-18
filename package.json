@@ -1,0 +1,42 @@
+{
+    "name": "universal-image-optimizer",
+    "version": "1.0.0-alpha.1",
+    "description": "A versatile, configuration-driven image optimization and transformation tool powered by sharp.",
+    "author": "Kenan Gündoğan",
+    "license": "MIT",
+    "type": "module",
+    "main": "./src/cli.js",
+    "bin": {
+        "universal-image-optimizer": "./src/cli.js"
+    },
+    "scripts": {
+        "init": "node ./src/cli.js init",
+        "start": "node ./src/cli.js start"
+    },
+    "files": [
+        "src/*"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/username/universal-image-optimizer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/username/universal-image-optimizer/issues"
+    },
+    "homepage": "https://github.com/username/universal-image-optimizer#readme",
+    "keywords": [
+        "image",
+        "optimizer",
+        "sharp",
+        "jpeg",
+        "png",
+        "transform",
+        "blur",
+        "rotate",
+        "optimize"
+    ],
+    "dependencies": {
+        "picocolors": "^1.1.1",
+        "sharp": "^0.33.5"
+    }
+}
