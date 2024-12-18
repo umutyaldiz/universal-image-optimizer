@@ -10,6 +10,7 @@
         "universal-image-optimizer": "./src/cli.js"
     },
     "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
         "init": "node ./src/cli.js init",
         "start": "node ./src/cli.js start"
     },
