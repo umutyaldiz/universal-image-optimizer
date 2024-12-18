@@ -1,6 +1,6 @@
 {
     "name": "universal-image-optimizer",
-    "version": "1.0.0-alpha.1",
+    "version": "1.0.0-alpha.2",
     "description": "A versatile, configuration-driven image optimization and transformation tool powered by sharp.",
     "author": "Kenan Gündoğan",
     "license": "MIT",
