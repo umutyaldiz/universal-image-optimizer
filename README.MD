@@ -163,6 +163,8 @@ This tool uses color-coded messages for better clarity, powered by `picocolors`:
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+---
+
 ## Created By
 
 This project was developed by Kenan Gündoğan. Contributions and feedback are welcome!
