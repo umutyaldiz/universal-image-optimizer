@@ -142,7 +142,7 @@ export default {
 After setting up the configuration file, run the following command to optimize your images:
 
 ```bash
-npx universal-image-optimizer run
+npx universal-image-optimizer start
 ```
 
 This will process images based on the configuration file and save them to the specified destination.
