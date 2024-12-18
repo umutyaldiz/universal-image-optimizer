@@ -43,7 +43,7 @@ export async function optimizer() {
             }
 
             try {
-                if (matchedConfig && matchedConfig.quality) {
+                if (matchedConfig) {
                     console.log(pc.cyan(`Processing file: ${file} using format ${matchedConfig.type.toUpperCase()}`));
                     await optimizeImage(inputPath, outputPath, matchedConfig);
                     console.log(pc.green(`Optimized: ${file} -> ${outputPath}`));
