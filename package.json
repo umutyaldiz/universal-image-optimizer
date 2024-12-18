@@ -19,12 +19,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/username/universal-image-optimizer.git"
+        "url": "https://github.com/kenangundogan/universal-image-optimizer.git"
     },
     "bugs": {
-        "url": "https://github.com/username/universal-image-optimizer/issues"
+        "url": "https://github.com/kenangundogan/universal-image-optimizer/issues"
     },
-    "homepage": "https://github.com/username/universal-image-optimizer#readme",
+    "homepage": "https://github.com/kenangundogan/universal-image-optimizer#readme",
     "keywords": [
         "image",
         "optimizer",
