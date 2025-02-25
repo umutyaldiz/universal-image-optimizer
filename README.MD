@@ -86,6 +86,8 @@ export default {
     {
       source: 'src/images',
       destination: 'dist/images',
+      preserveFolders: true,
+      clean: false,
       images: [
         {
           type: 'jpeg',

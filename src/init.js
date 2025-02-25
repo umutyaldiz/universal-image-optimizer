@@ -1,5 +1,3 @@
-// src/init.js
-
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -17,6 +15,8 @@ export function initConfig() {
         {
             source: 'src/images',
             destination: 'dist/images',
+            preserveFolders: true,
+            clean: false,
             images: [
                 {
                     type: 'jpeg',
